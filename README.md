@@ -11,3 +11,9 @@
 #### - Sağa-sola  X-ekseninde hareket  tuşlar: a, d
 #### - Aşağı-yukarı  Y-ekseninde hareket  tuşlar: w, s
 #### - İleri-geri  Z-ekseninde hareket  tuşlar: +, -
+
+
+![kedikopek3](https://user-images.githubusercontent.com/44363093/86906715-9e760080-c11c-11ea-9039-3f75477a42b4.jpg)
+![kedikopek1](https://user-images.githubusercontent.com/44363093/86906706-9b7b1000-c11c-11ea-8b34-ec02f4595615.jpg)
+![kedikopek2](https://user-images.githubusercontent.com/44363093/86906709-9cac3d00-c11c-11ea-87f3-12430e5e0797.jpg)
+
